@@ -1,4 +1,4 @@
-//Length of Linked List
+//Reverse LL
 #include<stdio.h>
 #include<stdlib.h>
 
